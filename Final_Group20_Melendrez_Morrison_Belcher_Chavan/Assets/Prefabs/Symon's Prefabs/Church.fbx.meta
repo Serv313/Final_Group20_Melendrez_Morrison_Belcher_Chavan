@@ -3,7 +3,12 @@ guid: ea4144155ac9d3448a7cd52230608d81
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Symons_stuff_CHURCH
+    second: {fileID: 2100000, guid: 7db3ced1d73074cf5a799c832b5ee702, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
